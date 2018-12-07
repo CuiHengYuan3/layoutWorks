@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">网易云音乐</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_tesrctivity">TESRctivity</string>
+</resources>
